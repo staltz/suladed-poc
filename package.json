@@ -1,0 +1,17 @@
+{
+  "name": "suladed-poc",
+  "version": "1.0.0",
+  "description": "Proof of Concept compiler for Suladed, a language inspired by Dedalus.",
+  "main": "suladed",
+  "author": "Andre Staltz",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^6.3.26",
+    "babel-core": "^6.3.26"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  }
+}
